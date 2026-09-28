@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="164" viewBox="0 0 430 164" role="img" aria-label="RatScanner: Desktop companion for Escape from Tarkov that scans in-game items and shows their details instantly.">
+<title>RatScanner: Desktop companion for Escape from Tarkov that scans in-game items and shows their details instantly.</title>
+<rect x="0.5" y="0.5" width="429" height="163" rx="10" fill="#ffffff" stroke="#d1d9e0" />
+<path d="M8 17V8H17 M413 8H422V17 M422 147V156H413 M17 156H8V147" fill="none" stroke="#d1242f" stroke-opacity="0.7" stroke-width="1.5" stroke-linecap="square" />
+<text x="28.0" y="48.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#1f2328">RatScanner</text>
+<rect x="298.7" y="30" width="105.3" height="22" rx="11" fill="none" stroke="#d1242f" stroke-opacity="0.55" />
+<text x="352.2" y="45.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="10" font-weight="600" fill="#d1242f" letter-spacing="1.6" text-anchor="middle">MAINTAINER</text>
+<text x="28.0" y="80.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#59636e">Desktop companion for Escape from Tarkov that scans</text>
+<text x="28.0" y="101.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#59636e">in-game items and shows their details instantly.</text>
+<circle cx="34" cy="133.5" r="6" fill="#178600" />
+<text x="46.0" y="138.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#1f2328">C#</text>
+<text x="70.6" y="138.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#818b98">·</text>
+<text x="80.6" y="138.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#818b98">.NET</text>
+</svg>

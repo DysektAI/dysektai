@@ -1,43 +1,45 @@
-## Hi, I'm Dys
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" width="100%" alt="Dys. Software developer. Owner of DysektAI, core maintainer of TarkovTracker, maintainer of RatScanner.">
+</picture>
 
-I'm a self-taught software developer based in Florida and the owner of [DysektAI](https://dysektai.com). I maintain open-source tools for the *Escape from Tarkov* community and build developer tooling for AI coding agents: language-server integrations, MCP servers, and LLM infrastructure and monitoring.
+<p align="center">
+  <a href="https://dysektai.com"><b>dysektai.com</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://x.com/Dys_AI"><b>X / @Dys_AI</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://discord.gg/tev8PAYJ83"><b>Discord</b></a>
+</p>
 
-[dysektai.com](https://dysektai.com) · [X / @Dys_AI](https://x.com/Dys_AI) · [Discord](https://discord.gg/tev8PAYJ83)
+### Maintaining
 
-### Maintainer
+<p>
+  <a href="https://github.com/tarkovtracker-org/TarkovTracker"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/tarkovtracker-dark.svg"><img src="./assets/cards/tarkovtracker-light.svg" width="49%" alt="TarkovTracker: quest, hideout, item, and progression tracker for Escape from Tarkov."></picture></a>
+  <a href="https://github.com/RatScanner/RatScanner"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/ratscanner-dark.svg"><img src="./assets/cards/ratscanner-light.svg" width="49%" alt="RatScanner: desktop companion for Escape from Tarkov that scans in-game items."></picture></a>
+</p>
 
-| Project | Role | Description |
-| :-- | :-- | :-- |
-| [TarkovTracker](https://github.com/tarkovtracker-org/TarkovTracker) | Owner, core maintainer | Quest, hideout, item, and progression tracker for *Escape from Tarkov* PvP and PvE, with squad sync. Built with Nuxt 4 and Supabase. |
-| [RatScanner](https://github.com/RatScanner/RatScanner) | Maintainer | C# desktop companion tool for *Escape from Tarkov* that scans in-game items and shows their details. |
-
-I also own the [tarkovtracker-org](https://github.com/tarkovtracker-org) organization, which includes the [tarkov-data-overlay](https://github.com/tarkovtracker-org/tarkov-data-overlay), the [TrackerBot](https://github.com/tarkovtracker-org/TrackerBot) Discord bot, and [RatScannerData](https://github.com/tarkovtracker-org/RatScannerData).
+I also run the [tarkovtracker-org](https://github.com/tarkovtracker-org) organization, home to the [data overlay](https://github.com/tarkovtracker-org/tarkov-data-overlay), [TrackerBot](https://github.com/tarkovtracker-org/TrackerBot), and [RatScannerData](https://github.com/tarkovtracker-org/RatScannerData).
 
 ### Projects
 
-| Project | Description |
-| :-- | :-- |
-| [pi-lsp](https://github.com/DysektAI/pi-lsp) | Managed, cross-platform language-server integration for the Pi coding agent, with an interactive control panel and first-class C#/.NET support. |
-| [pi-extensions](https://github.com/DysektAI/pi-extensions) | Extensions for the Pi coding agent: tasks, search, LSP, goal loops, and UX helpers. |
-| [ai-api-monitor](https://github.com/DysektAI/ai-api-monitor) | Zero-dependency Node.js monitor for AI API endpoints. Tracks availability, latency, and uptime across OpenAI-compatible and Anthropic providers. |
-| [wardogs-sitrep](https://github.com/DysektAI/wardogs-sitrep) | SITREP, a C# companion app for WARDOGS with a mortar solver. |
+<p>
+  <a href="https://github.com/DysektAI/pi-lsp"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/pi-lsp-dark.svg"><img src="./assets/cards/pi-lsp-light.svg" width="49%" alt="pi-lsp: managed language-server integration for the Pi coding agent."></picture></a>
+  <a href="https://github.com/DysektAI/pi-extensions"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/pi-extensions-dark.svg"><img src="./assets/cards/pi-extensions-light.svg" width="49%" alt="pi-extensions: extensions for the Pi coding agent."></picture></a>
+  <a href="https://github.com/DysektAI/ai-api-monitor"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/ai-api-monitor-dark.svg"><img src="./assets/cards/ai-api-monitor-light.svg" width="49%" alt="ai-api-monitor: zero-dependency monitor for AI API endpoints."></picture></a>
+  <a href="https://github.com/DysektAI/wardogs-sitrep"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/wardogs-sitrep-dark.svg"><img src="./assets/cards/wardogs-sitrep-light.svg" width="49%" alt="wardogs-sitrep: companion app for WARDOGS with a mortar solver."></picture></a>
+</p>
 
-### Open source contributions
+Also contributing to [Tarkov.dev](https://github.com/the-hideout) (`tarkov-api`, `tarkov-dev`, `tarkov-data-manager`, `TarkovMonitor`) and maintaining forks of [discord-mcp](https://github.com/DysektAI/discord-mcp) and [pi-fork](https://github.com/DysektAI/pi-fork).
 
-- **[Tarkov.dev](https://github.com/the-hideout)**: fixes and improvements to `tarkov-api`, `tarkov-dev`, `tarkov-data-manager`, and `TarkovMonitor`.
-- **[discord-mcp](https://github.com/DysektAI/discord-mcp)** and **[pi-fork](https://github.com/DysektAI/pi-fork)**: maintained forks with my own changes.
+### Stack
 
-### Tools I use
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <img src="./assets/stack-light.svg" width="100%" alt="Languages: TypeScript, JavaScript, Python, C#, Bash, Lua, Go, Rust. AI and agents: OpenAI API, Anthropic API, MCP, LSP, vLLM. Web: React, Next.js, Nuxt, Vite, Tailwind CSS, Supabase. Infra: Node.js, Docker, GitHub Actions, Cloudflare, pnpm, Vitest.">
+</picture>
 
-- **Languages:** TypeScript, JavaScript, Python, C#, Bash. I also use Lua, Go, and Rust.
-- **AI and agents:** OpenAI and Anthropic APIs, Model Context Protocol, Language Server Protocol, vLLM
-- **Web:** React, Next.js, Nuxt, Vite, Tailwind CSS, Supabase
-- **Infrastructure:** Node.js, Docker, GitHub Actions, Cloudflare, pnpm, Vitest
-
-Outside of code I'm into cybersecurity, 3D modeling, graphic design, and gaming.
-
-<br/>
+### Activity
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub activity: commit calendar and most used languages" width="480"/>
+  <img src="./github-metrics.svg" alt="Isometric contribution calendar with commit streaks" width="480">
 </p>
